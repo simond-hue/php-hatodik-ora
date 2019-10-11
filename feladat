@@ -1,0 +1,23 @@
+Okt 11-re
+
+Adatbázis 
+
+Feladatok
+Egy webshopot fogunk létrehozni
+Hozz létre egy adatbázist a php myadminban
+Legyen egy tábla ahol a termékeket tároljuk:
+Oszlopok: Id, nev, leiras, kep_link, ar. 
+Tölts fel minimum 3 terméket az adatbázisba
+Egy php oldalon olvasd be az adatbázist
+Irasd ki vardumppal (Természetesen OOP módszerrel)
+Formázd meg táblázatként
+A kép linkje képként jelenjen meg
+A páros és páratlan sorok nézzenek ki máshogy (más színű cellák, stb)
+Színezzük a 2000 Forintnál drágább termékek árát, és  
+Írjuk ki az átlagos, legdrágább, legolcsóbb termékárat
+Legyen egy legördülő menü, ahol a pénznemet változtathatjuk (pl. EUR vs Ft)
+Szorgalmi: élő árfolyammal (https://api.exchangeratesapi.io/latest) 
+Írjunk az adatbázisba
+Hozz létre egy admin oldalt (auth most még nem kell)
+Ahol be lehet vinni elemeket, és az frissül az előbbi oldalon
+
